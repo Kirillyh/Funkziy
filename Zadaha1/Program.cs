@@ -13,7 +13,7 @@ while(index<n)
     if (array[index]==find)
     {
         Console.WriteLine(index);
-        break;
+        break;   //  Останавливает на первом элементе если два одинаковых числа
     }
     index++;
 }
