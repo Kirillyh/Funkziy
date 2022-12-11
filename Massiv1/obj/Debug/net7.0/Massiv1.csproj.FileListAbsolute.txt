@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\bin\Debug\net7.0\Massiv1.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\bin\Debug\net7.0\Massiv1.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\bin\Debug\net7.0\Massiv1.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\bin\Debug\net7.0\Massiv1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\bin\Debug\net7.0\Massiv1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\refint\Massiv1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\Massiv1.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Massiv1\obj\Debug\net7.0\ref\Massiv1.dll

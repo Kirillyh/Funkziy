@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\bin\Debug\net7.0\Funcziy1.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\bin\Debug\net7.0\Funcziy1.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\bin\Debug\net7.0\Funcziy1.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\bin\Debug\net7.0\Funcziy1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\bin\Debug\net7.0\Funcziy1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\refint\Funcziy1.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\Funcziy1.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\Funcziy1\obj\Debug\net7.0\ref\Funcziy1.dll
