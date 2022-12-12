@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\bin\Debug\net7.0\METODU.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\bin\Debug\net7.0\METODU.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\bin\Debug\net7.0\METODU.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\bin\Debug\net7.0\METODU.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\bin\Debug\net7.0\METODU.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\refint\METODU.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\METODU.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\METODU\obj\Debug\net7.0\ref\METODU.dll
