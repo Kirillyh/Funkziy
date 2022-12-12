@@ -30,7 +30,7 @@ int Indexof (int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0;
+    int position = 0;          // Можно поставить -1 чтобы определить что в массиве нет такого индекса
     while (index < count)
     {
         if (collection[index]==find)
