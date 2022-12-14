@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\bin\Debug\net7.0\L_4_Kartinka.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\bin\Debug\net7.0\L_4_Kartinka.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\bin\Debug\net7.0\L_4_Kartinka.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\bin\Debug\net7.0\L_4_Kartinka.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\bin\Debug\net7.0\L_4_Kartinka.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\refint\L_4_Kartinka.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\L_4_Kartinka.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Kartinka\obj\Debug\net7.0\ref\L_4_Kartinka.dll

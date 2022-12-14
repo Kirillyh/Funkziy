@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\bin\Debug\net7.0\RECURSIY2.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\bin\Debug\net7.0\RECURSIY2.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\bin\Debug\net7.0\RECURSIY2.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\bin\Debug\net7.0\RECURSIY2.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\bin\Debug\net7.0\RECURSIY2.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\refint\RECURSIY2.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\RECURSIY2.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\RECURSIY2\obj\Debug\net7.0\ref\RECURSIY2.dll
