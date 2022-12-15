@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\bin\Debug\net7.0\L_4_Recursiy.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\bin\Debug\net7.0\L_4_Recursiy.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\bin\Debug\net7.0\L_4_Recursiy.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\bin\Debug\net7.0\L_4_Recursiy.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\bin\Debug\net7.0\L_4_Recursiy.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\refint\L_4_Recursiy.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\L_4_Recursiy.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_Recursiy\obj\Debug\net7.0\ref\L_4_Recursiy.dll

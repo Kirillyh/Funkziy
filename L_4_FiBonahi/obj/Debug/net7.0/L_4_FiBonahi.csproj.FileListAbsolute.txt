@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\bin\Debug\net7.0\L_4_FiBonahi.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\bin\Debug\net7.0\L_4_FiBonahi.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\bin\Debug\net7.0\L_4_FiBonahi.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\bin\Debug\net7.0\L_4_FiBonahi.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\bin\Debug\net7.0\L_4_FiBonahi.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\refint\L_4_FiBonahi.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\L_4_FiBonahi.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\L_4_FiBonahi\obj\Debug\net7.0\ref\L_4_FiBonahi.dll
