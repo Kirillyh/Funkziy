@@ -1,0 +1,15 @@
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.csproj.AssemblyReference.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.AssemblyInfoInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.AssemblyInfo.cs
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.csproj.CoreCompileInputs.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\bin\Debug\net7.0\TreugPaskaly.exe
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\bin\Debug\net7.0\TreugPaskaly.deps.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\bin\Debug\net7.0\TreugPaskaly.runtimeconfig.json
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\bin\Debug\net7.0\TreugPaskaly.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\bin\Debug\net7.0\TreugPaskaly.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\refint\TreugPaskaly.dll
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.pdb
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\TreugPaskaly.genruntimeconfig.cache
+C:\Users\smako\OneDrive\Рабочий стол\GItHubC#\Metod\TreugPaskaly\obj\Debug\net7.0\ref\TreugPaskaly.dll
